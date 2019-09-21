@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#09091a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="glitch_blue">#0ffbf9</color>
+    <color name="glitch_red">#ec2028</color>
+    <color name="colorBlack">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="ubercolor">#09091a</color>
+    <color name="grey">#777777</color>
+    <color name="lightgray">#d7d7d8</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="dark_grey">#6d6e70</color>
+    <color name="milky_white">#FEFCFF</color>
+</resources>

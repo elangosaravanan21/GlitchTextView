@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/tv_redttext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="-2dp"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/glitch_blue"
+        android:textSize="35dp" />
+
+
+    <TextView
+        android:id="@+id/tv_bluetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-3dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/glitch_red"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/tv_maintext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.99"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/milky_white"
+        android:textSize="35dp" />
+</RelativeLayout>
