@@ -3,11 +3,13 @@
 [![](https://github.com/elangosaravanan21/GlitchTextLib/blob/master/app/src/main/res/raw/New%20Project%20(16).png?raw=true)
 [![](https://jitpack.io/v/elangosaravanan21/GlitchTextLib.svg)](https://jitpack.io/#elangosaravanan21/GlitchTextLib)
 Step 1: Add it in your root build.gradle
-			allprojects {
-    			repositories {
-      		  maven { url "https://jitpack.io" }
-   			 }
-			}
+
+		allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+			
 
 Step 2: Add the dependency
 
