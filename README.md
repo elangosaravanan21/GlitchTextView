@@ -1,5 +1,5 @@
 # GlitchText
-[![](https://github.com/elangosaravanan21/GlitchTextLib/blob/master/app/src/main/res/raw/New%20Project%20(15).png?raw=true)
+![](https://github.com/elangosaravanan21/GlitchTextLib/blob/master/app/src/main/res/raw/New%20Project%20(15).png?raw=true)
 
 
 [![](https://jitpack.io/v/elangosaravanan21/GlitchTextLib.svg)](https://jitpack.io/#elangosaravanan21/GlitchTextLib)
